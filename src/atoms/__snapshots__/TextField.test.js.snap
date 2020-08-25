@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField 1`] = `
+<div
+  className="MuiFormControl-root-2"
+>
+  <div
+    className="MuiInputBase-root-19 MuiInput-root-6 MuiInput-underline-10 MuiInputBase-formControl-20 MuiInput-formControl-7"
+    onClick={[Function]}
+  >
+    <input
+      aria-invalid={false}
+      className="MuiInputBase-input-29 MuiInput-input-14"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      type="text"
+    />
+  </div>
+</div>
+`;
+
+exports[`TextField when addind text 1`] = `
+<div
+  className="MuiFormControl-root-2"
+>
+  <label
+    className="MuiFormLabel-root-17 MuiInputLabel-root-6 MuiInputLabel-formControl-11 MuiInputLabel-animated-14"
+    data-shrink={false}
+  >
+    Teste label
+  </label>
+  <div
+    className="MuiInputBase-root-37 MuiInput-root-24 MuiInput-underline-28 MuiInputBase-formControl-38 MuiInput-formControl-25"
+    onClick={[Function]}
+  >
+    <input
+      aria-invalid={false}
+      className="MuiInputBase-input-47 MuiInput-input-32"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      type="text"
+    />
+  </div>
+</div>
+`;
+
+exports[`TextField with fake data 1`] = `
+<div
+  className="MuiFormControl-root-2"
+>
+  <label
+    className="MuiFormLabel-root-47 MuiInputLabel-root-36 MuiInputLabel-formControl-41 MuiInputLabel-animated-44"
+    data-shrink={false}
+  >
+    Test label
+  </label>
+  <div
+    className="MuiInputBase-root-19 MuiInput-root-6 MuiInput-underline-10 MuiInputBase-formControl-20 MuiInput-formControl-7"
+    onClick={[Function]}
+  >
+    <input
+      aria-invalid={false}
+      className="MuiInputBase-input-29 MuiInput-input-14"
+      defaultValue="Test value"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      type="text"
+    />
+  </div>
+</div>
+`;
+
+exports[`TextField with test label 1`] = `
+<div
+  className="MuiFormControl-root-2"
+>
+  <label
+    className="MuiFormLabel-root-47 MuiInputLabel-root-36 MuiInputLabel-formControl-41 MuiInputLabel-animated-44"
+    data-shrink={false}
+  >
+    Test label
+  </label>
+  <div
+    className="MuiInputBase-root-19 MuiInput-root-6 MuiInput-underline-10 MuiInputBase-formControl-20 MuiInput-formControl-7"
+    onClick={[Function]}
+  >
+    <input
+      aria-invalid={false}
+      className="MuiInputBase-input-29 MuiInput-input-14"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      type="text"
+    />
+  </div>
+</div>
+`;
